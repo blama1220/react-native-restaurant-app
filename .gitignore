@@ -28,6 +28,7 @@ __generated__
 web-build
 bare-apps
 
+
 # Gradle
 /build/
 /packages/react-native-gradle-plugin/build/
